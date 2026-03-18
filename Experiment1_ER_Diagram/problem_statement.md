@@ -198,6 +198,6 @@ Complete all three scenarios (A, B, C).
 Identify entities, relationships, and attributes for each.
 Draw ER diagrams using draw.io / diagrams.net or hand-drawn & scanned.
 Fill in all tables and assumptions for each scenario.
-Export the completed Markdown (with diagrams) as a single PDF
+Export the completed Markdown (with diagrams) as a single PDF.
 4. Fill in all tables and assumptions for each scenario.  
 5. Export the completed Markdown (with diagrams) as **a single PDF**
